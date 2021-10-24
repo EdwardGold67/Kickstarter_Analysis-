@@ -10,7 +10,7 @@ The purpose of the analysis was to determine how successful plays on Kickstarter
 ### Theater Outcomes by Launch date 
 The first step in my analysis was comparing the launch date for theater kickstarters with the resulting outcomes. Through the use of a pivot table, I filtered out the parent category, Theater, and I created a line chart with the month of year on the X-axis and the number of outcomes on the Y-axis. The outcomes were split up into successful, failed and canceled.
 
-![Theater_Outcomes_vs_Launch.png](:\Programing software\Excel\Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](https://user-images.githubusercontent.com/48603147/138617957-ca5dc715-8d9d-4f68-b32f-5bdcc37fae3c.png)
 ### Outcomes Based on Goals
 In the second step of the analysis, I narrowed down the focus on plays, a sub category of theater. This time I compared how the outcomes were impacted based on the monetary goals for which the kickstarter’s were set at. To group projects based on their goals, I created dollar-amount ranges so that the data can be read more clearly. Using the Countifs function,…,I calculated the sum of successful, failed and canceled projects based on what range their goals were in. Following that step I summed up the total projects, within their ranges, using the sum function and divided by the number of successful, failed and canceled projects. From this I calculated the percentages of each outcome to make the data easier to understand and manipulate. As you can see from the line graph below, I put the dollar-amount ranges on the x-axis and the outcome percentages on the y-axis. 
 
