@@ -25,4 +25,4 @@ After analyzing the line chart I created for Theater Outcomes by Launch Date, I 
 I have concluded from the line chart that generally goals with lower dollar amounts have higher success rates. While this was not the case for goals between the ranges of $35000 to $44999, the number of projects in that range was small and not really substantial.
 
 ### Dataset limitations
-One limitation in the data set I noticed was that there were a number of outliers present with projects that had very unrealistic monetary goals. With some project goals exceeding a million dollars and others asking for one dollar, the data could have been distorted from these questionable projects. 
+One limitation in the data set I noticed was that there were a number of outliers present with projects that had very unrealistic monetary goals. With some project goals exceeding a million dollars and others asking for one dollar, the data could have been distorted from these questionable projects. I think a new table that be created for futher analysis could be using a Box Plot of successfully funded plays in the US.
